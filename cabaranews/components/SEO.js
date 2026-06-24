@@ -48,6 +48,11 @@ export default function SEO({
       <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
       <link rel="apple-touch-icon" href="/icon-192.png" />
       <link rel="manifest" href="/site.webmanifest" />
+      <script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2225780585720003"
+        crossOrigin="anonymous"
+      />
     </Head>
   )
 }
