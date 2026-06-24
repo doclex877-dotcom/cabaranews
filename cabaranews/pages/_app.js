@@ -1,0 +1,17 @@
+import '../styles/globals.css'
+import Navbar from '../components/Navbar'
+import Footer from '../components/Footer'
+import CookieBanner from '../components/CookieBanner'
+
+export default function App({ Component, pageProps }) {
+  return (
+    <>
+      <Navbar />
+      <main id="main-content">
+        <Component {...pageProps} />
+      </main>
+      <Footer />
+      <CookieBanner />
+    </>
+  )
+}
