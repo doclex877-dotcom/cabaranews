@@ -6,7 +6,7 @@ categoryLabel: "Your Rights"
 date: "2025-06-30"
 lastUpdated: "June 2025"
 readTime: 14
-tags: ["Tenant Rights", "UK Housing Law", "Right to Rent", "Illegal Eviction", "Housing Rights"]
+tags: ["Tenant Rights", "UK Housing Law", "Right to Rent", "Illegal Eviction", "Housing Rights", "UK", "Zimbabwe"]
 published: true
 ---
 

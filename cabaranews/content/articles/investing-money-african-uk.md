@@ -6,7 +6,7 @@ categoryLabel: "Money & Fintech"
 date: "2025-06-27"
 lastUpdated: "June 2025"
 readTime: 14
-tags: ["Investing", "ISA", "Wealth Building", "UK Finance", "African Diaspora", "Stocks"]
+tags: ["Investing", "ISA", "Wealth Building", "UK Finance", "African Diaspora", "Stocks", "UK", "Zimbabwe", "Nigeria"]
 published: true
 ---
 

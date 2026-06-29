@@ -6,7 +6,7 @@ categoryLabel: "Your Rights"
 date: "2025-06-14"
 lastUpdated: "June 2025"
 readTime: 15
-tags: ["Migrant Rights", "UK Employment Law", "Skilled Worker Visa", "Sponsorship", "Workers Rights"]
+tags: ["Migrant Rights", "UK Employment Law", "Skilled Worker Visa", "Sponsorship", "Workers Rights", "UK", "UK Visa"]
 published: true
 ---
 

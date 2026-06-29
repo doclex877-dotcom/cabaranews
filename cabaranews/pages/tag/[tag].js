@@ -36,6 +36,8 @@ export async function getStaticPaths() {
   articles.forEach(a => {
     if (a.tags) a.tags.forEach(t => tagSet.add(t.toLowerCase().replace(/\s+/g, '-')))
   })
+  // Include all footer country tags even if no articles yet
+  ;['uk', 'canada', 'usa', 'australia', 'germany', 'zimbabwe', 'nigeria', 'ghana', 'kenya', 'south-africa'].forEach(t => tagSet.add(t))
   return {
     paths: Array.from(tagSet).map(tag => ({ params: { tag } })),
     fallback: false,

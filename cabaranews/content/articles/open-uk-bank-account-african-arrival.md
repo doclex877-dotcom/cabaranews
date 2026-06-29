@@ -6,7 +6,7 @@ categoryLabel: "Money & Fintech"
 date: "2025-06-16"
 lastUpdated: "June 2025"
 readTime: 12
-tags: ["UK Bank Account", "New Arrival", "Africa", "Monzo", "Starling", "BRP", "Fintech"]
+tags: ["UK Bank Account", "New Arrival", "Africa", "Monzo", "Starling", "BRP", "Fintech", "UK"]
 published: true
 ---
 

@@ -6,7 +6,7 @@ categoryLabel: "Immigration"
 date: "2025-06-26"
 lastUpdated: "June 2025"
 readTime: 15
-tags: ["UK Visa", "Nigeria", "Skilled Worker", "Immigration", "Work Permit"]
+tags: ["UK Visa", "Nigeria", "Skilled Worker", "Immigration", "Work Permit", "UK"]
 published: true
 ---
 

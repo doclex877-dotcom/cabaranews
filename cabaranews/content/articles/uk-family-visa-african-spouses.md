@@ -6,7 +6,7 @@ categoryLabel: "Visa Applications"
 date: "2025-06-21"
 lastUpdated: "June 2025"
 readTime: 14
-tags: ["Family Visa", "Spouse Visa", "UK Immigration", "Partner Visa", "Africa"]
+tags: ["Family Visa", "Spouse Visa", "UK Immigration", "Partner Visa", "Africa", "UK", "Zimbabwe"]
 published: true
 ---
 

@@ -6,7 +6,7 @@ categoryLabel: "Visa Applications"
 date: "2025-06-17"
 lastUpdated: "June 2025"
 readTime: 14
-tags: ["Student Visa", "UK", "Africa", "University", "CAS", "Maintenance Funds"]
+tags: ["Student Visa", "UK", "Africa", "University", "CAS", "Maintenance Funds", "UK Visa"]
 published: true
 ---
 

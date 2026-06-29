@@ -6,7 +6,7 @@ categoryLabel: "Studying Abroad"
 date: "2025-06-20"
 lastUpdated: "June 2025"
 readTime: 15
-tags: ["Scholarships", "Africa", "UK University", "Chevening", "Commonwealth", "Rhodes", "Gates Cambridge"]
+tags: ["Scholarships", "Africa", "UK University", "Chevening", "Commonwealth", "Rhodes", "Gates Cambridge", "UK"]
 published: true
 ---
 

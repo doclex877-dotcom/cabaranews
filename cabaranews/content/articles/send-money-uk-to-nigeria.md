@@ -6,7 +6,7 @@ categoryLabel: "Money & Fintech"
 date: "2025-06-22"
 lastUpdated: "June 2025"
 readTime: 13
-tags: ["Money Transfer", "Nigeria", "Naira", "Remittance", "UK Diaspora", "Wise", "Lemfi"]
+tags: ["Money Transfer", "Nigeria", "Naira", "Remittance", "UK Diaspora", "Wise", "Lemfi", "UK"]
 published: true
 ---
 

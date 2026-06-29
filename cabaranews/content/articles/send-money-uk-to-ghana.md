@@ -6,7 +6,7 @@ categoryLabel: "Money & Fintech"
 date: "2025-06-29"
 lastUpdated: "June 2025"
 readTime: 12
-tags: ["Money Transfer", "Ghana", "GHS", "MTN MoMo", "Remittance", "UK Diaspora", "Sendwave"]
+tags: ["Money Transfer", "Ghana", "GHS", "MTN MoMo", "Remittance", "UK Diaspora", "Sendwave", "UK"]
 published: true
 ---
 

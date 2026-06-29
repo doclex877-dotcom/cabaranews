@@ -6,7 +6,7 @@ categoryLabel: "Immigration"
 date: "2025-06-20"
 lastUpdated: "June 2025"
 readTime: 15
-tags: ["Australia", "Skilled Visa", "Africa", "Immigration", "Permanent Residency"]
+tags: ["Australia", "Skilled Visa", "Africa", "Immigration", "Permanent Residency", "Zimbabwe"]
 published: true
 ---
 

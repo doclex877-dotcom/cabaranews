@@ -6,7 +6,7 @@ categoryLabel: "Money & Fintech"
 date: "2025-06-18"
 lastUpdated: "June 2025"
 readTime: 11
-tags: ["Travel Money", "Travel Card", "Wise", "Revolut", "Africa", "Europe", "UK Travel"]
+tags: ["Travel Money", "Travel Card", "Wise", "Revolut", "Africa", "Europe", "UK Travel", "UK"]
 published: true
 ---
 

@@ -6,7 +6,7 @@ categoryLabel: "Immigration"
 date: "2025-06-01"
 lastUpdated: "June 2025"
 readTime: 14
-tags: ["UK Visa", "Skilled Worker", "Zimbabwe", "Work Permit", "UK Immigration"]
+tags: ["UK Visa", "Skilled Worker", "Zimbabwe", "Work Permit", "UK Immigration", "UK"]
 published: true
 ---
 

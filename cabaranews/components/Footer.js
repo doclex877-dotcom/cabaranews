@@ -31,9 +31,11 @@ export default function Footer() {
             <ul className="footer__links">
               <li><Link href="/tag/uk">United Kingdom</Link></li>
               <li><Link href="/tag/canada">Canada</Link></li>
-              <li><Link href="/tag/usa">United States</Link></li>
               <li><Link href="/tag/australia">Australia</Link></li>
-              <li><Link href="/tag/germany">Germany</Link></li>
+              <li><Link href="/tag/nigeria">Nigeria</Link></li>
+              <li><Link href="/tag/ghana">Ghana</Link></li>
+              <li><Link href="/tag/zimbabwe">Zimbabwe</Link></li>
+              <li><Link href="/tag/south-africa">South Africa</Link></li>
             </ul>
           </div>
 

@@ -6,7 +6,7 @@ categoryLabel: "Immigration"
 date: "2025-06-22"
 lastUpdated: "June 2025"
 readTime: 16
-tags: ["ILR", "Indefinite Leave to Remain", "British Citizenship", "UK Settlement", "Skilled Worker", "Life in the UK Test"]
+tags: ["ILR", "Indefinite Leave to Remain", "British Citizenship", "UK Settlement", "Skilled Worker", "Life in the UK Test", "UK", "Zimbabwe"]
 published: true
 ---
 

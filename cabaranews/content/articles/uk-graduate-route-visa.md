@@ -6,7 +6,7 @@ categoryLabel: "Visa Applications"
 date: "2025-06-28"
 lastUpdated: "June 2025"
 readTime: 13
-tags: ["Graduate Route", "Post-Study Visa", "UK Visa", "International Students", "Work Rights"]
+tags: ["Graduate Route", "Post-Study Visa", "UK Visa", "International Students", "Work Rights", "UK"]
 published: true
 ---
 

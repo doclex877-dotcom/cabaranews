@@ -6,7 +6,7 @@ categoryLabel: "Money & Fintech"
 date: "2025-06-10"
 lastUpdated: "June 2025"
 readTime: 13
-tags: ["Money Transfer", "Zimbabwe", "Wise", "Mukuru", "Remittance", "UK Diaspora"]
+tags: ["Money Transfer", "Zimbabwe", "Wise", "Mukuru", "Remittance", "UK Diaspora", "UK"]
 published: true
 ---
 
